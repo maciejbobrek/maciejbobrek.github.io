@@ -12,6 +12,7 @@
  - the aim of the project is to help students calculate their recruitment points
  - Project is incomplete. We have done Python program and graphic website.
  - It allowed me to understand Github and practice it
+ - Contributors:
  > - [**Maciej Bobrek**](https://github.com/maciejbobrek) 
  > - [**Aleksander Mystkowski**](https://github.com/Mythsty)
  > - [**Marcin Zub**](https://github.com/MarcinZ20) 
