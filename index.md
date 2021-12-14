@@ -13,10 +13,10 @@
  - projekt nie został w 100% dokończony, została zrobiona strona internetowa i napisany program w Pythonie do liczenia punktów
  Wygląd naszej strony:
   
-![1](1.png)
+![1](4.png)
 
-![2](1.png)
+![2](5.png)
 
-![3](2.png)
+![3](6.png)
 
 
