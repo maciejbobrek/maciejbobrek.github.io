@@ -12,6 +12,7 @@
  - celem projektu jest pomoc osobom młodszym z rekrutacją
  - projekt nie został w 100% dokończony, została zrobiona strona internetowa i napisany program w Pythonie do liczenia punktów
  Wygląd naszej strony:
+ - Dzięki niemu poprawiła się moja znajomość narzędzi informatycznych i przede wszystkim obycie z GitHubem.
   
 ![1](4.png)
 
