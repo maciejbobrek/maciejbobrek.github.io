@@ -1,19 +1,17 @@
 
 # Welcome to my Website!
 
-## Coś o mnie
-- jestem studentem 1 roku studiów na AGH w Krakowie
-- bardzo lubię siatkówkę
-- nie lubie analizy matematycznej i języka C
+## Info about me
+- I am at first year of It at AGH in Cracow 
+- I love volleyball and football
+- I hate C programming language and math analysis
 
-## Projekty nad którymi pracuje
+## My Projects
 
-### Kalkulator Punktów AGH 
- - celem projektu jest pomoc osobom młodszym z rekrutacją
- - projekt nie został w 100% dokończony, została zrobiona strona internetowa i napisany program w Pythonie do liczenia punktów
- Wygląd naszej strony:
- - Dzięki niemu poprawiła się moja znajomość narzędzi informatycznych i przede wszystkim obycie z GitHubem.
- - Contributors:
+### AGH recruitment points Calculator
+ - the aim of the project is to help students calculate their recruitment points
+ - Project is incomplete. We have done Python program and graphic website.
+ - It allowed me to understand Github and practice it
  > - [**Maciej Bobrek**](https://github.com/maciejbobrek) 
  > - [**Aleksander Mystkowski**](https://github.com/Mythsty)
  > - [**Marcin Zub**](https://github.com/MarcinZ20) 
