@@ -13,6 +13,7 @@
  - projekt nie został w 100% dokończony, została zrobiona strona internetowa i napisany program w Pythonie do liczenia punktów
  Wygląd naszej strony:
  - Dzięki niemu poprawiła się moja znajomość narzędzi informatycznych i przede wszystkim obycie z GitHubem.
+ - [Repository Link](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Cieple-Dranie) and Website screenshots:
   
 ![1](4.png)
 
