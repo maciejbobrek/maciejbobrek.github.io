@@ -1,5 +1,5 @@
 
-# Witaj na mojej stronie internetowej!
+# Welcome to my Website!
 
 ## Coś o mnie
 - jestem studentem 1 roku studiów na AGH w Krakowie
